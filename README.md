@@ -31,3 +31,4 @@
 * Usage of Google Drive API in a separate plugin
 * Sounds
 * Add the possibility to cancel imports/exports
+* Save DB operations for synchronization
