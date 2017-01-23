@@ -13,12 +13,12 @@
 * Change unit with swipe gesture
 * Vocabulary test: simplify language filter
 * Learning view: save settings
-
 * Add the possibility to move words between units
 * Denote word as difficult
 * Before importing check the file format
 * Hangman game
 * Pair mode game
+* ´'Play against friends' game (one device): Who Wants to Be a Millionaire, more points at higher speed
 * Sticky notification while importing/...
 * Change keyboard language automatically
 * Language symbols
@@ -28,3 +28,6 @@
 * Query: automatic font size
 * Statistics
 * Dark theme
+* Usage of Google Drive API in a separate plugin
+* Sounds
+* Add the possibility to cancel imports/exports
