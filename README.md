@@ -1,6 +1,5 @@
 # VLToDo
 
-* Remove button on edit dialog
 * CSV import: Remove language restrictions
 * CSV import: Fix export bug
 * Check archive for query
