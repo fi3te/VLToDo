@@ -1,6 +1,5 @@
 # VLToDo
 
-* CSV import: Remove language restrictions
 * CSV import: Fix export bug
 * Check archive for query
 * Rank in query view optional
