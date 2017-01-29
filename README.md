@@ -1,5 +1,7 @@
 # VLToDo
 
+* simplify the first steps into the app
+* query fragment: landscape layout
 * CSV import: Fix export bug
 * Check archive for query
 * Rank in query view optional
