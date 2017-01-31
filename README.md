@@ -1,5 +1,6 @@
 # VLToDo
 
+* Optional import directory: update description
 * simplify the first steps into the app
 * query fragment: landscape layout
 * CSV import: Fix export bug
