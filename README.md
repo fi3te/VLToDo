@@ -3,6 +3,7 @@
 * simplify the first steps into the app
 * query fragment: landscape layout
 * CSV import: Fix export bug
+* Replying to notifications: query for translations in notification
 * Check archive for query
 * Rank in query view optional
 * Time match: learning direction, language filter, libraries
