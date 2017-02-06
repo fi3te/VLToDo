@@ -11,6 +11,7 @@
 * Update FAQ
 * Remove unnecessary todos
 * Dashboard
+* CSV import: remove utf-8 restriction
 * ListView in editor: Allow multiple selection
 * Consistent padding in all fragments
 * Change unit with swipe gesture
