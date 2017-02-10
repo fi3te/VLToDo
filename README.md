@@ -1,6 +1,5 @@
 # VLToDo
 
-* simplify the first steps into the app
 * query fragment: landscape layout
 * Replying to notifications: query for translations in notification
 * Check archive for query
