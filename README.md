@@ -1,5 +1,10 @@
+# Planned for version 1.2.7
+* Multiple selection in word list
+* Add the possibility to move words between units
+
 # VLToDo
 
+* Facilitate the input of complete sentences
 * Replying to notifications: query for translations in notification
 * Check archive for query
 * Rank in query view optional
@@ -14,7 +19,6 @@
 * Change unit with swipe gesture
 * Vocabulary test: simplify language filter
 * Learning view: save settings
-* Add the possibility to move words between units
 * Denote word as difficult
 * Before importing check the file format
 * Hangman game
