@@ -1,8 +1,3 @@
-# Planned for version 1.2.7
-* Multiple selection in word list
-* Add the possibility to move words between units
-* ActionBar: updated title and subtitle
-
 # VLToDo
 
 * Facilitate the input of complete sentences
