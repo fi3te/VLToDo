@@ -4,7 +4,6 @@
 * Replying to notifications: query for translations in notification
 * Check archive for query
 * Rank in query view optional
-* Time match: learning direction, language filter, libraries
 * Backup without learning progress
 * Update FAQ
 * Remove unnecessary todos
