@@ -28,7 +28,6 @@
 * Vocabulary book view
 * Query: automatic font size
 * Statistics
-* Dark theme
 * Usage of Google Drive API in a separate plugin
 * Sounds
 * Add the possibility to cancel imports/exports
