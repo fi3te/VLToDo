@@ -1,6 +1,5 @@
 # VLToDo
 
-* Update library versions (+ LicensesActivity)
 * Update ORMLite and OpenCSV
 * Facilitate the input of complete sentences
 * Replying to notifications: query for translations in notification
