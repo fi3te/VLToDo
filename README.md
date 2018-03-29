@@ -1,5 +1,6 @@
 # VLToDo
 
+* Update library versions (+ LicensesActivity)
 * Facilitate the input of complete sentences
 * Replying to notifications: query for translations in notification
 * Check archive for query
