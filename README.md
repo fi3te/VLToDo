@@ -1,6 +1,5 @@
 # VLToDo
 
-* Update ORMLite and OpenCSV
 * Facilitate the input of complete sentences
 * Replying to notifications: query for translations in notification
 * Check archive for query
@@ -9,7 +8,6 @@
 * Update FAQ
 * Remove unnecessary todos
 * Dashboard
-* CSV import: remove utf-8 restriction
 * Consistent padding in all fragments
 * Change unit with swipe gesture
 * Vocabulary test: simplify language filter
