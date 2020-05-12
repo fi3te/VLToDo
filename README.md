@@ -1,5 +1,7 @@
 # VLToDo
 
+* Preserve rank after editing (optional)
+* Possibility to set the rank of a word
 * Automatic backup
 * Possibility to merge collections
 * Facilitate the input of complete sentences
