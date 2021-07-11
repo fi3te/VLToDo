@@ -1,13 +1,14 @@
 # VLToDo
 
-* Automatic backup
+* Import vocabulary into an existing collection
 * Possibility to merge collections
+* Automatic backup
+* Query: better input check (hints, synonyms, ...)
 * Facilitate the input of complete sentences
 * Replying to notifications: query for translations in notification
 * Check archive for query
 * Rank in query view optional
 * Backup without learning progress
-* Update FAQ
 * Remove unnecessary todos
 * Dashboard
 * Consistent padding in all fragments
@@ -23,7 +24,6 @@
 * Change keyboard language automatically
 * Language symbols
 * Input widget (or widget that opens a popup with an input mask)
-* Query: better input check
 * Vocabulary book view
 * Query: automatic font size
 * Statistics
