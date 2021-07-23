@@ -2,9 +2,11 @@
 
 * Import vocabulary into an existing collection
 * Possibility to merge collections
+* Improve editing of vocabulary
 * Automatic backup
 * Query: better input check (hints, synonyms, ...)
 * Facilitate the input of complete sentences
+* Allow more complex filters
 * Replying to notifications: query for translations in notification
 * Check archive for query
 * Rank in query view optional
