@@ -4,6 +4,7 @@
 * Possibility to merge collections
 * Improve editing of vocabulary
 * Automatic backup
+* In-app language picker
 * Query: better input check (hints, synonyms, ...)
 * Facilitate the input of complete sentences
 * Allow more complex filters
